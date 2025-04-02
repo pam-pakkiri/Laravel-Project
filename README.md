@@ -16,4 +16,4 @@ Optimize for GTmetrix
 Frontend – Light Theme – LTR
 The front end is fully responsive with a modern interface and works perfectly with the latest Chrome, Firefox, Safari, Opera, Edge, Electron, Brave, Vivaldi, and mobile browsers. It will provide an enjoyable experience for you as well as your customers.
 
-Frontend - Light Theme - LTR
+ 
