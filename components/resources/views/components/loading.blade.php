@@ -1,0 +1,1 @@
+<i class="spinner-border spinner-border-sm me-2"></i>

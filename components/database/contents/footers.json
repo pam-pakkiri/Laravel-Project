@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"translations": [
+			{
+				"id": 10,
+				"locale": "vi"
+			},
+			{
+				"id": 9,
+				"locale": "tr"
+			},
+			{
+				"id": 8,
+				"locale": "ru"
+			},
+			{
+				"id": 7,
+				"locale": "pt"
+			},
+			{
+				"id": 6,
+				"locale": "it"
+			},
+			{
+				"id": 5,
+				"locale": "fr"
+			},
+			{
+				"id": 4,
+				"locale": "es"
+			},
+			{
+				"id": 3,
+				"locale": "de"
+			},
+			{
+				"id": 2,
+				"locale": "ar"
+			},
+			{
+				"id": 1,
+				"locale": "en"
+			}
+		]
+}
+]

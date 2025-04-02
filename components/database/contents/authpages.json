@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Login",
+		"status": true
+	},
+	{
+		"id": 2,
+		"name": "Register",
+		"status": true
+	},
+	{
+		"id": 3,
+		"name": "Forgot Password",
+		"status": true
+	},
+	{
+		"id": 4,
+		"name": "Reset Password",
+		"status": true
+	},
+	{
+		"id": 5,
+		"name": "Verify Email",
+		"status": false
+	},
+	{
+		"id": 6,
+		"name": "Profile",
+		"status": true
+	}
+]
